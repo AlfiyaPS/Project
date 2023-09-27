@@ -9,3 +9,4 @@ def registration(request):
     return render(request,'registration.html')
 def registerproperty(request):
     return render(request,'registerproperty.html')
+    
